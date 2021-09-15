@@ -1,8 +1,6 @@
 # object_easy_curve_array
 Blender Addon to create curve array objects from lines of vertices.
 
-## Features
-* 
 
 ## Installing
 * Download repository as zip
